@@ -1,0 +1,2 @@
+# hotconsole
+pretty console
